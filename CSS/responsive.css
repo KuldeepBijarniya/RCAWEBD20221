@@ -1,0 +1,61 @@
+@media screen and (max-width : 1511px)
+{
+    header div.photo1{
+        background-color: rgb(230, 220, 220);
+        margin-top: 10px;
+        position: relative;
+        text-align: center;
+    }
+    header div.photo1 .p1 img{
+        width: 700px;
+        height: 650px;
+    }
+    header div.photo1 .p1{
+        display: inline-block;
+        margin-left: 8px;
+        margin-top: 6px;
+        margin-right: 20px;
+    }
+    header div.photo1 .p2 img{
+        width: 700px;
+        height: 650px;
+    }
+    header div.photo1 .p2{
+        display: inline-block;
+    }
+    div.rc3{
+        height: 615px;
+    }
+}
+@media screen and (max-width : 1457px)
+{
+    header div.photo1 .p1 img {
+        width: 635px;
+        height: 650px;
+    }
+    header div.photo1 .p2 img {
+        width: 635px;
+        height: 650px;
+    }
+    header div.photo1 h1 {
+        top: 28%;
+        left: 21%;
+        font-size: 60px;
+    }
+    header div.photo1 h2 {
+        top: 44%;
+        left: 18%;
+        font-size: 42px;
+    }
+    .mainlogo img {
+        width: 75%;
+    }
+    .but button {
+        left: 18%;
+        width: 260px;
+        font-size: 22px;
+    }
+    footer div.bt a {
+        padding-left: 1220px;
+    }
+}
